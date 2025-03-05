@@ -27,7 +27,6 @@ I specialize in developing scalable and efficient websites using modern framewor
 - **UI/UX Design** (Figma, Adobe XD)
 
 ### **Back-End Development**:
-- **Node.js** (for scalable back-end services)
 - **Laravel** (for building robust, modern PHP-based applications)
 - **RESTful APIs** (for creating dynamic communication between front-end and back-end)
 - **Database Management**: MySQL, MongoDB
